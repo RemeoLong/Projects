@@ -1,3 +1,4 @@
+#Date: 8/19/2020
 import random
 
 dice1 = random.randint(0, 6)
