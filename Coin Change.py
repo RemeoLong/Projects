@@ -1,3 +1,4 @@
+# Date: 10/26/2020
 # Coin Change
 # Object of this program is to give the correct change for a dollar amount.
 # We, also, need to know which coins were used and how many were used.
