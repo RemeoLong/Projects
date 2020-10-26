@@ -1,7 +1,7 @@
 # Coin Change
 # Object of this program is to give the correct change for a dollar amount.
 # We, also, need to know which coins were used and how many were used.
-# Data TYpe: Float
+# Data Type: INT
 # 12 Different Variables
 
 total_sum = (100)
