@@ -1,4 +1,6 @@
 # Projects
 Portfolio
 
-1. Made a Coin Change Program
+1. Coin Change Program
+2. Random Dice Game
+3. Rock-Paper-Scissors Game
