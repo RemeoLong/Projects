@@ -1,5 +1,4 @@
 # Projects
-Portfolio
 
 1. Coin Change Program
 2. Random Dice Game
